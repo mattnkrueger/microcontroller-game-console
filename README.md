@@ -1,8 +1,7 @@
 # Final Project - Embedded Systems
 <p align="center">
-  <img src="img/product.png" alt="It looks better in person i swear">
+  <img src="img/product.png" alt="display">
 </p>
-It looks better in person 
 
 This project showcases our learning from the Embedded Systems course in which we decided to build a game system. The system includes two microcontrollers communicating using UART:
 1. Esp32 - required to address all ~4000 addresses of the LED Matrix (64^2)
