@@ -91,4 +91,7 @@ All parts were designed inside of Fusion360 and printed using a BambuLab P1S 3D-
       <a href="mailto:matthew-krueger@uiowa.edu">Email</a> | <a href="https://www.linkedin.com/in/mattnkrueger/">LinkedIn</a>
     </div>
   </div>
-</div>              
+</div>          
+
+# NOTICE:
+ALL CODE WRITTEN WITHIN THIS PROJECT WAS UNASSISTED; NO USAGE OF AI INVOLVED.
