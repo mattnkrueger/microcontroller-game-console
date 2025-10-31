@@ -1,4 +1,4 @@
-# Final Project - Embedded Systems
+# Micro-controller Gaming Console
 <p align="center">
   <img src="img/product.png" alt="display">
 </p>
