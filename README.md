@@ -92,6 +92,3 @@ All parts were designed inside of Fusion360 and printed using a BambuLab P1S 3D-
     </div>
   </div>
 </div>          
-
-# NOTICE:
-ALL CODE WRITTEN WITHIN THIS PROJECT WAS UNASSISTED; NO USAGE OF AI INVOLVED.
