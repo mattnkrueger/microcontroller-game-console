@@ -7,11 +7,14 @@ Microcontroller gaming console featuring "Etch-E-Sketch" and pixel art applicati
 
 ### Project Tags
 <div align="left">
-  <img src="tags/uiowa.svg" width="138" alt="Uiowa" />
+  <img src="tags/uiowa.svg" width="123" alt="Uiowa" />
   <img src="tags/handwritten.svg" width="171" alt="Handwritten" />
   <img src="tags/arduino.svg" width="60" alt="Arduino" />
   <img src="tags/esp.svg" width="60" alt="ESP" />
   <img src="tags/cpp.svg" width="60" alt="ESP" />
+  <img src="tags/platformio.svg" width="60" alt="Pio" />
+  <img src="tags/fusion.svg" width="60" alt="Fusion360" />
+  <img src="tags/bambu.svg" width="180" alt="Bambu Studio" />
 </div>
 
 ---
