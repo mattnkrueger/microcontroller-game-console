@@ -1,11 +1,24 @@
 # Micro-controller Gaming Console
+
+### Description
+Microcontroller gaming console featuring "Etch-E-Sketch" and pixel art applications. Additional games (chess & tetris) failed due to 2 week time constaint and handcoding velocity.
+
+---
+
+### Project Tags
+<div align="left">
+  <img src="tags/uiowa.svg" width="138" alt="Uiowa" />
+  <img src="tags/handwritten.svg" width="171" alt="Handwritten" />
+  <img src="tags/arduino.svg" width="60" alt="Arduino" />
+  <img src="tags/esp.svg" width="60" alt="ESP" />
+  <img src="tags/cpp.svg" width="60" alt="ESP" />
+</div>
+
+---
+
 <p align="center">
   <img src="img/product.png" alt="display">
 </p>
-
-This project showcases our learning from the Embedded Systems course in which we decided to build a game system. The system includes two microcontrollers communicating using UART:
-1. Esp32 - required to address all ~4000 addresses of the LED Matrix (64^2)
-2. Arduino Uno R3 - handle user interaction with the system
 
 Our project goal was to build something that wont be thrown away - or stripped down to preserve parts - after the class ends. The LED Matrix (and game system) sufficed; it allows for various programs, unique displays, and extendability beyond this course. Because of the ESP32, this system can be iterated on to support user I/O via a web application. However, that would be more of an IoT project than Embedded Systems... just our thinking. As we are roomates, this system is currently being held in our living room. The Hawkeye themed system compliments the room nicely haha.
 
