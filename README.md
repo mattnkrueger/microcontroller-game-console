@@ -1,11 +1,11 @@
 # Micro-controller Gaming Console
 
 ### Description
-Microcontroller gaming console featuring "Etch-E-Sketch" and pixel art applications. Additional games (chess & tetris) failed due to 2 week time constaint and handcoding velocity.
+Microcontroller gaming console featuring "Etch-E-Sketch" and pixel art applications. Custom 3D Printed model housing 64x64 LED panel driven by ESP32, and 12 peripheral inputs morintored by Arduino Uno. 
 
 ---
 
-### Project Tags
+### Repository Tags
 <div align="left">
   <img src="tags/uiowa.svg" width="123" alt="Uiowa" />
   <img src="tags/handwritten.svg" width="171" alt="Handwritten" />
